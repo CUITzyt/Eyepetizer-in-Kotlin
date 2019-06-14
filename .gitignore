@@ -2,3 +2,8 @@
 .DS_Store
 .idea/caches/
 *~
+.idea/
+build/
+.gradle/
+app/app.iml
+Eyepetizer-in-Kotlin.iml
